@@ -15,7 +15,6 @@ Welcome to my personal portfolio, a revolutionary solution designed to showcase 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Flask framework
 - **Version Control:** Git, GitHub
 
 ## Screenshot or Demo
