@@ -22,20 +22,28 @@ Welcome to my personal portfolio, a revolutionary solution designed to showcase 
 [Include screenshots or demo links here]https://www.loom.com/share/9077d95b5bfc417c8ee725bd1bbe3e7a?sid=0852ba2a-227c-4152-8abd-0c3d33b713b6
 
 ROADMAP AND FUTURE ENHANCEMENT
+
 	The ambitious plan for my personal portfolio: 
-	Mobile App Development: develop dedication mobile application for IOS and Android platforms to extend accessibility.  
+
+	Mobile App Development: develop dedication mobile application for IOS and Android platforms to extend accessibility.
+
 	Advance Reporting: introduce advanced reporting features, enabling users to generate detailed performance report and analytics. 
+
 	AI-Powered Insight: integrate machine learning algorithms to provide intelligent task suggesting and insight based on user behavoir and project data. 
-	Offline Model: implement offline functionality ,allowing users to work even without an internet connection.  
+
+	Offline Model: implement offline functionality ,allowing users to work even without an internet connection.
+
 	Accountability: Accessibility with everyone including the ones living with disability.
 
   #CONTACT INFORMATION 
- Nozipho ,Ntombikayise ,NDABA  
+ Nozipho ,Ntombikayise ,NDABA 
+ 
 	Email Address :Ntombikayisenhlane001@gmail.com
+
 	LinkedIn: http://www.linkedin.com/in/Nozipho97340122a
+
 	GitHub:github.com/Nozipho-Ndaba
+
 	Twitter:Kayise_Masuku97 
-
-
 
 
