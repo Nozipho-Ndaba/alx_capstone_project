@@ -1,4 +1,3 @@
-# Personal Portfolio
 
 Welcome to my personal portfolio, a revolutionary solution designed to showcase a collection of work and achievements that highlight an individual's skills, expertise, and experiences. The purpose of this portfolio is to provide insight into my personality and ethics, with the aim of connecting with potential employers and networking connections who can easily view my skills. My goal is to connect with other professionals to share knowledge and skills, as well as find new career opportunities.
 
@@ -19,23 +18,11 @@ Welcome to my personal portfolio, a revolutionary solution designed to showcase 
 
 ## Screenshot or Demo
 
-[Include screenshots or demo links here]
+[Include screenshots or demo links here]https://www.loom.com/share/9077d95b5bfc417c8ee725bd1bbe3e7a?sid=0852ba2a-227c-4152-8abd-0c3d33b713b6
 
 ## Roadmap and Future Enhancements
 
 The ambitious plan for my personal portfolio includes:
 
-- **Mobile App Development:** Developing a dedicated mobile application for iOS and Android platforms to extend accessibility.
-- **Advanced Reporting:** Introducing advanced reporting features that enable users to generate detailed performance reports and analytics.
-- **AI-Powered Insights:** Integrating machine learning algorithms to provide intelligent task suggestions and insights based on user behavior and project data.
-- **Offline Mode:** Implementing offline functionality, allowing users to work even without an internet connection.
-- **Accessibility:** Ensuring accessibility for everyone, including those living with disabilities.
 
-## Contact Information
-
-- **Name:** Nozipho Ntombikayise Ndaba
-- **Email Address:** Ntombikayisenhlane001@gmail.com
-- **LinkedIn:** [LinkedIn Profile](http://www.linkedin.com/in/Nozipho97340122a)
-- **GitHub:** [GitHub Profile](https://github.com/Nozipho-Ndaba)
-- **Twitter:** [Twitter Profile](https://twitter.com/Kayise_Masuku97)
 
